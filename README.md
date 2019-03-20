@@ -1,1 +1,2 @@
 # crystal-collector.html
+Fourth assignment on creating a crystal collector game using JQuery along with Javascript.
